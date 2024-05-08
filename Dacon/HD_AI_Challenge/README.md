@@ -29,4 +29,4 @@
 
 ## 블로그 내용 정리
 
-[https://pjj11005.github.io/projects/2024-02-05-projects-loanclass/]
+[https://pjj11005.github.io/projects/2023-11-09-projects-HDAI/]
