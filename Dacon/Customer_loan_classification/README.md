@@ -3,7 +3,7 @@
 
 
 ## 대회 요약
-[https://dacon.io/competitions/official/236214/overview/description]
+- 데이터 출처 : [https://dacon.io/competitions/official/236214/data]
 
 - 주최: 데이콘
 - 주관: 데이콘
@@ -26,4 +26,8 @@
 
 | Submission | CV Macro F1 | Public Macro F1 | Rank | Private Macro F1 | Rank |
 | --- | --- | --- | --- | --- | --- |
-| 광운인 solution | 0.8353 | 0.84383 | - | 0.84663 | 130/784 |
+| pjj11005 solution | 0.8353 | 0.84383 | - | 0.84663 | 130/784 |
+
+## 블로그 내용 정리
+
+[https://pjj11005.github.io/projects/2024-02-05-projects-loanclass/]
