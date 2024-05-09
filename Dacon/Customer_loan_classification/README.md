@@ -27,7 +27,3 @@
 | Submission | CV Macro F1 | Public Macro F1 | Rank | Private Macro F1 | Rank |
 | --- | --- | --- | --- | --- | --- |
 | pjj11005 solution | 0.8353 | 0.84383 | - | 0.84663 | 130/784 |
-
-## 블로그 내용 정리
-
-[https://pjj11005.github.io/projects/2024-02-05-projects-loanclass/]
