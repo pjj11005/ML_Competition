@@ -1,5 +1,4 @@
-# DACON-HD-AI-Challenge
-
+# HD현대 AI Challenge
 
 ## 대회 요약
 - 데이터 출처 : [https://dacon.io/competitions/official/236158/data]
