@@ -1,5 +1,4 @@
-# Dacon_Customer_Loan_Rating_Classification
-
+# 소득 예측 AI 해커톤
 
 ## 대회 요약
 - 데이터 출처 : [https://dacon.io/competitions/official/236230/data]
