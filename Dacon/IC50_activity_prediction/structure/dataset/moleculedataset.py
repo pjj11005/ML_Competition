@@ -1,7 +1,7 @@
 import torch
 from torch.utils.data import Dataset
 
-
+# SMILES + 분자, 원자 feature dataset
 class MoleculeDataset(Dataset):
     def __init__(self, smiles, features, targets=None, tokenizer=None, max_length=512):
         self.smiles = smiles
