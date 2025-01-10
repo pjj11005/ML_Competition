@@ -22,7 +22,8 @@ class ChemBERTpIC50Predictor(nn.Module):
             nn.Dropout(0.3),
             nn.Linear(128, 1),
         )
-
+    
+    # 학습: 각 output combined
     def forward(self, input_ids, attention_mask, features):
         bert_output = self.bert_model(input_ids=input_ids, attention_mask=attention_mask)[1]  # Pooled output
         features_output = self.fc_features(features)
