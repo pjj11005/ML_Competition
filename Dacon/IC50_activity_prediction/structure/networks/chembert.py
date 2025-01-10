@@ -2,6 +2,7 @@ import torch
 import torch.nn as nn
 
 
+# 모델 설계: ChemBERT + 수치형 처리 layers
 class ChemBERTpIC50Predictor(nn.Module):
     def __init__(self, bert_model, num_features):
         super(ChemBERTpIC50Predictor, self).__init__()
