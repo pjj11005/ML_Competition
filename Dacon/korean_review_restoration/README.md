@@ -12,7 +12,7 @@
 
 ## 진행 내용
 
-- 난독화된 한국어 리뷰 복원을 위해 `rtzr/ko-gemma-2-9b-it 9B` 모델을 `4비트 양자화`와 `LoRA(r=16, alpha=32)`로 최적화하여 사용
+- 난독화된 한국어 리뷰 복원을 위해 `rtzr/ko-gemma-2-9b-it` 모델을 `4비트 양자화`와 `LoRA(r=16, alpha=32)`로 최적화하여 사용
 - 학습 효율성을 위해 `batch_size 2, gradient_accumulation_steps 16, lr 2e-4` 설정으로 `3 epochs` 학습 진행
 - 추론 시 `temperature 0.2, top_p 0.9` 파라미터로 자연스러운 한국어 복원 결과 생성
 - 완성된 모델을 `ko-gemma-2-9b-it-restoration` 이름으로 허깅페이스 허브에 공개하여 재사용성 확보
